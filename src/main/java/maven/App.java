@@ -1,10 +1,5 @@
 package maven;
 
-/**
- *checking
-
-*/
-
 
 /**
  * Hello world!
